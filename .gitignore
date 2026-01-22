@@ -1,0 +1,10 @@
+# Loại bỏ thư mục biên dịch Java
+bin/
+*.class
+
+# Loại bỏ cấu hình riêng của VS Code
+.vscode/
+
+# Loại bỏ các file tạm của hệ điều hành
+.DS_Store
+Thumbs.db
