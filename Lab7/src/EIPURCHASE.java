@@ -26,6 +26,6 @@ public class EIPURCHASE {
                 low = lai;
             }
         }
-        System.out.printf("%.3f\n",low);
+        System.out.printf("%.7f\n",low);
     }
 }
